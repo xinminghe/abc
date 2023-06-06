@@ -1,0 +1,6 @@
+Initially we created three dummy files: 
+    file_1.txt  file_2.txt  file_3.txt
+and uploaded them toGitHub.
+
+Now we'll follow Git Tutorial (w3school.com)
+from: https://www.w3schools.com/git/default.asp?remote=github
